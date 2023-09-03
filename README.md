@@ -1,0 +1,1 @@
+# pytest_task_3_6_step10
